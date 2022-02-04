@@ -1,6 +1,6 @@
 # Hovercraft Graphics
 
->>>CONTROLS<<<
+CONTROLS
 
 (THE CONTROLS ARE FOR THE CAMERA, IN ORDER TO CHANGE THE POSITION OF IT)
 
@@ -16,19 +16,19 @@ LEFT CLICK - ADDS THE EXISTING LIGHTING IN THE SCENE TO THE LOCATION WHERE THE M
 
 
 
->>>VIDEO<<<
+VIDEO
 
 ----------------------
 https://www.youtube.com/watch?v=nnkTLKX7mLo
 ----------------------
 
->>>INFORMATION<<<
+INFORMATION
 
 IF YOU WANT TO RUN THE PROJECT IT NEEDS TO BE ON x86 IN VISUAL STUDIO
 
 
 
->>>ADDITIONAL INFORMATION --- REFFERENCES ---> LIBRARIES---WEBSITES<<<
+ADDITIONAL INFORMATION --- REFFERENCES ---> LIBRARIES---WEBSITES
 
 Glew.sourceforge.net. 2020. GLEW: The Opengl Extension Wrangler Library. [online] 
 Available at: <http://glew.sourceforge.net/>.
